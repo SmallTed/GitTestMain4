@@ -1,1 +1,2 @@
 Plik dodany w release 0.2
+linia 2
